@@ -1,9 +1,8 @@
 ---
 layout: post
-title: You're up and running!
+title: The beginning
 ---
-
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+This blog... This Enchiridion is meant not so much as a learning tool for others, but as an record of my learning for myself
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
